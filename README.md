@@ -1,1 +1,1 @@
-# tech02-painel
+Criando um painel do professor.
